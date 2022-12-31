@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital@1&family=Rubik:wght@500&display=swap');
+
+body{
+    background-image: url('elcarito-MHNjEBeLTgw-unsplash.jpg');
+}
+
+#mainDiv{
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+}
+
+#thanksTO{
+    background-color: #202020;
+    color: aliceblue;
+    font-family: 'Rubik', sans-serif;
+    border: solid #202020 5px;
+    width: 350px;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -60%);
+    border-radius: 10px;
+}
+
+#img{
+    border: solid #202020 6px;
+    border-radius: 30px;
+}
+
+#btn{
+    background-color: #202020;
+    color: aliceblue;
+    border: #202020 solid 3px;
+    border-radius: 10px;
+    width: 90px;
+    height: auto;
+    font-family: 'Rubik', sans-serif;
+    margin-top: 10px;
+    transition: background-color 0.15s, border-color 0.15;
+}
+
+#btn:hover{
+    background-color: #100f0f;
+    border-color: #100f0f;
+}
+
+#btn:active{
+    background-color: black;
+    border-color: black;
+}
