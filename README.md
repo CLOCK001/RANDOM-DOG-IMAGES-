@@ -5,9 +5,13 @@ ______________
 
 How to set up:
   1.Download the code
+  
   2.Make a folder (name it anything you want)
+  
   3.Put code in file that you created
+  
   4.Click the index.html file
+  
   5.Thats it!
 _______________
 Programmer: Anas sameh
